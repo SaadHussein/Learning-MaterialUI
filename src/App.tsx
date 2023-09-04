@@ -8,7 +8,12 @@ import "./App.css";
 // import MuiSwitch from "./components/MuiSwitch";
 // import MuiRating from "./components/MuiRating";
 // import MuiAutoComplete from "./components/MuiAutoComplete";
-import MuiLayout from "./components/MuiLayout";
+// import MuiLayout from "./components/MuiLayout";
+// import MuiCard from "./components/MuiCard";
+// import MuiAccordian from "./components/MuiAccordian";
+// import MuiImageList from "./components/MuiImageList";
+// import MuiNavbar from "./components/MuiNavbar";
+// import MuiLink from "./components/MuiLink";
 function App() {
   return (
     <div className="App">
@@ -21,7 +26,12 @@ function App() {
       {/* <MuiSwitch /> */}
       {/* <MuiRating /> */}
       {/* <MuiAutoComplete /> */}
-      <MuiLayout />
+      {/* <MuiLayout /> */}
+      {/* <MuiCard /> */}
+      {/* <MuiAccordian /> */}
+      {/* <MuiImageList /> */}
+      {/* <MuiNavbar /> */}
+      {/* <MuiLink /> */}
     </div>
   );
 }
